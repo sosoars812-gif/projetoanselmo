@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Cartão</title>
+
+    <style>
+        .cartao {
+            width: 260px;
+            height: 200px;
+            padding: 15px 25px;
+            background-color: pink;
+            border-radius: 15px;
+            text-align: center;
+            margin: 50px auto;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="cartao">
+        <h2>Meu Cartão</h2>
+        <p>Acredite em você e nunca desista dos seus sonhos! 💪✨</p>
+    </div>
+
+</body>
+</html>
